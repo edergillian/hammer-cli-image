@@ -1,0 +1,8 @@
+:foreman:
+  # Enable/disable foreman commands
+  :enable_module: true
+
+  # Your foreman server address
+  :host: FOREMAN_HOST
+  :username: FOREMAN_USER
+  :password: FOREMAN_PASSWORD
